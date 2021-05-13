@@ -4718,6 +4718,10 @@ blockquote {
   border-radius: 50%;
   text-align: center;
   z-index: 2147483647;
+  transition: 0.5s box-shadow;
+}
+.whatapp-share:hover {
+  box-shadow: 0px 0px 5px grey;
 }
 .ig-feed-box {
   height: 300px;
