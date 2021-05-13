@@ -4721,6 +4721,7 @@ blockquote {
 }
 .ig-feed-box {
   height: 300px;
+  margin: 0.25rem;
   background-size: cover;
 }
 .ig-feed-box .over-lay {
