@@ -4709,7 +4709,7 @@ blockquote {
   cursor: pointer;
   font-size: 35px;
   position: fixed;
-  bottom: 65px;
+  bottom: 30px;
   left: 20px;
   background: #25d366;
   color: white;
