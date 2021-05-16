@@ -113,13 +113,10 @@ button {
 }
 /* chosen select option */
 .chosen-container-single .chosen-single span {
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   display: block;
   font-size: 12px;
   transition: all 0.3s ease 0s;
-}
-.chosen-container-single .chosen-single span:hover {
-  color: #f3a395;
 }
 .chosen-container-single .chosen-single {
   background: transparent none repeat scroll 0 0;
@@ -189,12 +186,6 @@ button {
   letter-spacing: 0.5px;
   line-height: 82px;
   text-transform: uppercase;
-}
-/* .main-menu ul li:hover > a {
-  color: #f3a395;
-} */
-.chosen-container .chosen-single div b::before {
-  color: white !important;
 }
 .main-menu nav > ul > li > ul {
   background: #fff none repeat scroll 0 0;
@@ -4753,4 +4744,8 @@ blockquote {
 }
 .product-img-button:hover {
   background: white !important;
+}
+.top-bar {
+  background: rgb(255, 218, 155);
+  color: black;
 }
